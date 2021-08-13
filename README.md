@@ -1,5 +1,5 @@
 ## Hello strange world, I'm Gabi
-#### Designer and Software Engineering Student and  
+#### Designer and Software Engineering Student  
 
 - 🔭 I’m currently studying at École 42 - São Paulo unit
 - 🌱 I’m currently learning C language and more things about Hardwares
